@@ -8,10 +8,13 @@ dependencies = [
     "ipywidgets>=8.1.7",
     "kaggle>=1.7.4.5",
     "kagglehub>=0.3.13",
+    "learn>=1.0.0",
     "matplotlib>=3.10.6",
     "numpy>=2.3.3",
     "pandas>=2.3.2",
     "pathlib>=1.0.1",
     "polars>=1.33.1",
+    "sci-kit>=0.1.0",
+    "scikit-learn>=1.7.2",
     "seaborn>=0.13.2",
 ]
