@@ -1,0 +1,40 @@
+This is a file to keep track of things to do in the future/ ideas about results and things we will be doing this time around we just need to mark down
+
+NEXT TIME TO DO:
+- COMBINE the data prep and create_data files, they don't need to be separate
+- CHECK THAT WINS IS WINS BEFORE THE POSTSEASON - IF IT INCLUDES POSTSEASON WINS WE NEED TO CHANGE IT
+- GENERAL CLEAN UP
+- KNN
+
+To Do:
+-EDA
+- COMBINE the data prep and create_data files, they don't need to be separate
+* Avg wins by seed
+* Correlation matrix - figure out which variables are highly correlated and might be confounding
+* Single Linear Regression
+* Multi Linear Regression
+* Non Linear regression?
+* NN
+* KNN
+* Decision tree
+* Random Forest
+* Single variable predictions - will a team make the final four (equivalent of 4 wins)
+* Multivariable prediction - how many games do we expect a team to win
+* PUT WHAT EACH SCRIPT DOES IN THERE MARKDOWN HEADERS
+
+
+Observations:
+ 
+* There are an uneven distribution of number of wins (in a tourney 32 have 0, 16 have 1, 8 have 2, etc)
+Because of that, we may need to do some additional transformations but generally we want to find higher win teams and models should at least be ok with that as they are
+
+
+* Regression:
+
+
+
+Future Work:
+* Do feature importance work and improve the regression models 
+
+
+
